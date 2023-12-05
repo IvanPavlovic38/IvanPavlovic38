@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan Pavlovic
+- 👋 Hi, I’m Ivan Pavlović
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C# web development
 - 📫 How to reach me ipavlovic6437@gmail.com
